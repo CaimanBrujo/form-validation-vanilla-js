@@ -6,6 +6,10 @@ Includes custom error messages, input styling, and success feedback — no third
 
 > Built on top of the `template-webpack` boilerplate. Plug and play.
 
+## Live Demo
+
+https://caimanbrujo.github.io/form-validation-vanilla-js/
+
 ## Getting Started
 
 1. Clone this project
@@ -103,10 +107,6 @@ form-validation-vanilla-js/
 ├── webpack.config.js
 └── README.md
 ```
-
-## Live Demo
-
-[Add link here if hosted]
 
 ## Author
 
